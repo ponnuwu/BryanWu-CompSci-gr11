@@ -120,14 +120,6 @@ while running:
     cloud2_x += cloud2_x_speed
     cloud3_x += cloud3_x_speed
 
-#cloud = (255, 255, 255)
-#cloud1_x = 115
-#cloud1_y = 60
-#cloud2_x = 320
-#cloud2_y = 60
-#cloud3_x = 525
-#cloud3_y = 60
-
     # ---------------------------
 
     # Sky (background)
